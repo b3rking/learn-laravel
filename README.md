@@ -12,5 +12,5 @@ If you feel like you have something to add, better resource, any suggestion. ple
 
 | Completed | Topic                                 | Learning links                |
 |-------------|--------------------------------------|-------------------------------|
-|   [ ]        | Callback Functions and Route::view() | [Basic Routing](https://laravel.com/docs/routing#basic-routing), [View Routes](https://laravel.com/docs/routing#view-routes)|
-|   [ ]         | Routing to a Single Controller Method | [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) |
+|  - [ ]        | Callback Functions and Route::view() | [Basic Routing](https://laravel.com/docs/routing#basic-routing), [View Routes](https://laravel.com/docs/routing#view-routes)|
+|  - [ ]         | Routing to a Single Controller Method | [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) |
