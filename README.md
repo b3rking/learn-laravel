@@ -10,4 +10,7 @@ If you feel like you have something to add, better resource, any suggestion. ple
 
 ## Level 1/4. Beginner Level
 
-[Daflx]('https://daflx.com')
+| Completed | Topic                                 | Learning links                |
+|-------------|--------------------------------------|-------------------------------|
+| No        | Callback Functions and Route::view() | [Basic Routing]('https://laravel.com/docs/routing#basic-routing'), [View Routes]('https://laravel.com/docs/routing#view-routes')|
+| No         | Routing to a Single Controller Method | [Basic Controllers with Routes]('https://laravel.com/docs/controllers#basic-controllers') |
